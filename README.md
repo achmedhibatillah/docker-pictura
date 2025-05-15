@@ -1,11 +1,11 @@
 # PICTURA
-### Tugas Docker untuk Aplikasi Sharing Picture
-### Mata Kuliah Teknologi Berbasis Cloud
-
-##### Anggota Kelompok :
-##### 1. Achmed Hibatillah
-##### 2. Kevin Josua
-
+# Tugas Docker untuk Aplikasi Picture Sharing
+#### Mata Kuliah Teknologi Berbasis Cloud
+---
+#### Anggota Kelompok :
+##### 1. Achmed Hibatillah (225150707111024)
+##### 2. Kevin Josua S. (225150707111057)
+---
 ### Struktur Direktori
 ![img](img/sd.png)
 
@@ -30,3 +30,4 @@
 `exit`
 - Jalankan docker compose: 
 `docker compose up`
+- Aplikasi bisa dijalankan melalui `http://127.0.0.1:8081`
